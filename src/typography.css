@@ -5,15 +5,15 @@ body {
 }
 
 .large-title {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 28px;
   line-height: 34px;
 }
 
 .title {
-  font-weight: 700;
-  font-size: 15px;
-  line-height: 18px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 .text-lg {
@@ -47,16 +47,10 @@ input,
 }
 
 
-.text-ss {
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 18px;
-  color: #94A3B8;
-}
-
 .caption {
   font-weight: 400;
   font-size: 12px;
   line-height: 14px;
+  color: #94A3B8;
 }
 

@@ -1,1 +1,8 @@
 /* Временные стили добавлять здесь */
+
+.adrss {
+    outline: none;
+    border-radius: 8px;
+    border: solid #E2E8F0 1px;
+    padding: 24px;
+  }

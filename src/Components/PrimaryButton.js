@@ -7,6 +7,7 @@ function PrimaryButton(props) {
     // Здесь устанавливается минимальная ширина для кнопки
     let minWidth = props.minWidth === undefined ? '28px' : props.minWidth; 
     const Button = styled.div`
+        margin-top: 8px;
         background: #3B82F6;
         border-radius: 24px;
         min-width: ${minWidth};

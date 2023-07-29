@@ -21,7 +21,7 @@ function TitledSelector({title, options}) {
         (<div></div>) : 
         (<div>{title}</div>);
     return (
-        <div className='text-ss d-flex flex-column gap-2'>
+        <div className='caption d-flex flex-column gap-2'>
             {Title}
             <Select className='px-3 py-2'>
                 {options.map(optionName => {
